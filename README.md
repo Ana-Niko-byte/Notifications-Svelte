@@ -1,3 +1,5 @@
+This project is deployed using Netlify, through FrontEnd Mentor. The link to the deployed project is available [here](https://jolly-stroopwafel-ea33a5.netlify.app/)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
